@@ -1,4 +1,4 @@
-package edu.ContestSpringBack;
+package edu.ContestSpringBack.Task4;
 
 import java.util.*;
 
